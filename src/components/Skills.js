@@ -48,39 +48,39 @@ export const Skills = () => {
                             </p> */}
                             <Carousel responsive={responsive} infinite={true} className="skill-slider">
                                 <div className="item">
-                                    <img src={js_img} alt="Image" />
+                                    <img src={js_img} alt="log_img" />
                                     <h5>JavaScript</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={html_img} alt="Image" />
+                                    <img src={html_img} alt="log_img" />
                                     <h5>Html</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={css_img} alt="Image" />
+                                    <img src={css_img} alt="log_img" />
                                     <h5>Css</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={jQuery_img} alt="Image" />
+                                    <img src={jQuery_img} alt="log_img" />
                                     <h5>jQuery</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={react_img} alt="Image" />
+                                    <img src={react_img} alt="log_img" />
                                     <h5>React Js</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={bootstrap_img} alt="Image" />
+                                    <img src={bootstrap_img} alt="log_img" />
                                     <h5>Bootstrap</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={nodeJs_img} alt="Image" />
+                                    <img src={nodeJs_img} alt="log_img" />
                                     <h5>Node Js</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={expressJs_img} alt="Image" />
+                                    <img src={expressJs_img} alt="log_img" />
                                     <h5>Express Js</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={mongoDb_img} alt="Image" />
+                                    <img src={mongoDb_img} alt="log_img" />
                                     <h5>Mongo Db</h5>
                                 </div>
                                 {/* <div className="item">

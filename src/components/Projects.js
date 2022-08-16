@@ -9,7 +9,7 @@ import projImg5 from "../assets/images/calculator.jpg";
 import projImg6 from "../assets/images/searchtable.jpg";
 import projImg7 from "../assets/images/survey-form.jpg";
 import projImg8 from "../assets/images/login&signup_page.jpg";
-import projImg9 from "../assets/images/kisaan.jpg";
+// import projImg9 from "../assets/images/kisaan.jpg";
 import projImg10 from "../assets/images/portfolio1.jpg";
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
@@ -138,7 +138,7 @@ export const Projects = () => {
                     </Col>
                 </Row>
             </Container>
-            <img className="background-image-right" src={colorSharp2}></img>
+            <img className="background-image-right" src={colorSharp2} alt="bg_img"></img>
         </section>
     )
 }

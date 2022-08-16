@@ -47,9 +47,9 @@ export const NavBar = function () {
             </Nav>
             <span className="navbar-text">
                 <div className="social-icon">
-                    <a href="https://www.linkedin.com/in/avilash-chakraborty-a40928161/" target="_blank"><img src={navIcon1} /></a>
-                    <a href="https://github.com/AvilashChak" target="_blank"><img src={navIcon2} /></a>
-                    <a href="https://drive.google.com/file/d/1KdT2ug17AymjPVdC1yICtT0byDlIaYBp/view?usp=sharing" target="_blank"><img src={navIcon3} /></a>
+                    <a href="https://www.linkedin.com/in/avilash-chakraborty-a40928161/" target="_blank" rel="noreferrer"><img src={navIcon1} alt="contact_image"/></a>
+                    <a href="https://github.com/AvilashChak" target="_blank" rel="noreferrer"><img src={navIcon2} alt="contact_image"/></a>
+                    <a href="https://drive.google.com/file/d/1KdT2ug17AymjPVdC1yICtT0byDlIaYBp/view?usp=sharing" target="_blank" rel="noreferrer"><img src={navIcon3} alt="contact_image"/></a>
                 </div>
                 <button>
                     <a href='#connect'><span>Let's connect</span></a>
