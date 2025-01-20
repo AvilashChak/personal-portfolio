@@ -49,7 +49,7 @@ export const NavBar = function () {
                 <div className="social-icon">
                     <a href="https://www.linkedin.com/in/avilash-chakraborty-a40928161/" target="_blank" rel="noreferrer"><img src={navIcon1} alt="contact_image"/></a>
                     <a href="https://github.com/AvilashChak" target="_blank" rel="noreferrer"><img src={navIcon2} alt="contact_image"/></a>
-                    <a href="https://drive.google.com/file/d/1KdT2ug17AymjPVdC1yICtT0byDlIaYBp/view?usp=sharing" target="_blank" rel="noreferrer"><img src={navIcon3} alt="contact_image"/></a>
+                    <a href="https://drive.google.com/file/d/1fYCNCKFdVyl6NCK3P15WmfNU8iM785vI/view?usp=drive_link" target="_blank" rel="noreferrer"><img src={navIcon3} alt="contact_image"/></a>
                 </div>
                 <button>
                     <a href='#connect'><span>Let's connect</span></a>
