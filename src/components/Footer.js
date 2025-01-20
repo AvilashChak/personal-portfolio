@@ -16,7 +16,7 @@ export const Footer = () => {
                     <Col>
                         <div>
                             <h2>How do you take your coffee?</h2>
-                            <h4>Let's work together...</h4>
+                            <h4>Let's work together..</h4>
                         </div>
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/avilash-chakraborty-a40928161/" target="_blank" rel="noreferrer"><img src={navIcon1} alt="contact_image"/></a>
